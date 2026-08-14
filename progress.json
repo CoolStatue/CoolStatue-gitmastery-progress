@@ -178,5 +178,14 @@
       "\"v1.0\" message must be exactly \"first full duty roster\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786674281.382649,
+    "completed_at": 1786674283.728061,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
